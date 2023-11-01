@@ -16,6 +16,7 @@
     <br />
     <br />
 
+    <p>Result:</p>
     <input v-model="result" readonly />
   </main>
 </template>
