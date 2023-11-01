@@ -6,6 +6,8 @@ Kelas : B
 
 ## Link Website (Github Page)
 
+https://samuelyuma.github.io/vue-simple-calculator
+
 ## Link Website (Vercel)
 
 https://yuma-vue-calculator.vercel.app/
