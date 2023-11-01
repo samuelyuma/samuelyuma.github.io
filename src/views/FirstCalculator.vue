@@ -1,6 +1,8 @@
 <template>
   <main>
     <h1>First Calculator 🧮</h1>
+    <h3>Nama : Samuel Yuma Krismata</h3>
+    <h3>NRP : 5027221029</h3>
 
     <input type="number" v-model.number="first" placeholder="Input here" />
     <input type="number" v-model.number="second" placeholder="Input here" />
@@ -16,7 +18,6 @@
     <br />
     <br />
 
-    <p>Result:</p>
     <input v-model="result" readonly />
   </main>
 </template>
