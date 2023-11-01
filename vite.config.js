@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/yuma-vue-calculator/',
+  base: '/vue-simple-calculator/',
   plugins: [vue()],
   resolve: {
     alias: {
